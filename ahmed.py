@@ -4,7 +4,7 @@ import base64
 from io import BytesIO
 
 # Configuration de la page
-st.set_page_config(page_title="Ahmed Zaridi")
+st.set_page_config(page_title="Ahmed Zaridi", page_icon="👤") 
 
 # Fonction pour convertir une image en base64
 def image_to_base64(img):
