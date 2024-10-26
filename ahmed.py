@@ -172,7 +172,7 @@ st.markdown(
             <p>📧 <a href="mailto:ahmedzaridi21@gmail.com" style="color: white;">ahmedzaridi21@gmail.com</a></p>
             <p>📞 (+212) 673199596</p>
             <div class="center-buttons">
-                <a href="https:" target="_blank">LinkedIn</a>
+                <a href="https://www.linkedin.com/in/ahmed-zaridi-551246278/" target="_blank">LinkedIn</a>
                 <a href="https:" target="_blank">GitHub</a>
                 <a href="https:" target="_blank">LeetCode</a>
             </div>
